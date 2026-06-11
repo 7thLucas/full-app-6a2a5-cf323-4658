@@ -21,8 +21,8 @@ to action. Nothing competes for attention.
 - **No** secondary sections (no menu grid, about, gallery, footer-heavy layout) in v1.
 
 ## Brand & tone
-- **Palette:** pink / reddish — warm, appetizing, inviting (primary rose-red, soft pink accents),
-  on a clean light background.
+- **Palette:** pink / reddish — warm, appetizing, inviting (primary rose-red `#E0285A`, soft
+  pink accents `#F7A8C0`, soft pink background tint `#FFF0F3`), on a clean light background.
 - **Tone:** warm, simple, confident. Homey but tidy.
 
 ## Strategic principles
