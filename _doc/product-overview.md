@@ -30,7 +30,12 @@ to action. Nothing competes for attention.
 - **Fast first** — lightweight, instant load is a feature, not a nicety.
 - **One clear action** — a single CTA, no competing links.
 
-## Open assumptions (to confirm during onboarding)
+## As built (v1)
+- Hero ships with default copy: tagline **"Homemade comfort, made with love."** and primary
+  CTA **"Order Now"**. All copy, colors, and the CTA link are owner-editable (nothing hardcoded).
+- The CTA link is a placeholder until the owner points it at a real order/contact destination.
+
+## Open assumptions (to confirm)
 - Exact offering of SusieQ Kitchen (restaurant / bakery / home kitchen / catering) — **assumed: prepared food**.
-- The single primary action — **assumed: "Order now" / "Contact"**.
+- The CTA destination (online order URL, phone, message form) — **to be wired by owner**.
 - Order volume / pricing — unknown; North Star is projected from labeled assumptions.
